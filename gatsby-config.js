@@ -57,8 +57,8 @@ module.exports = {
     //     trackingId: `ADD YOUR TRACKING ID HERE`,
     //   },
     // },
-    {
-      resolve: `gatsby-plugin-feed`,
+    /* {
+       resolve: `gatsby-plugin-feed`,
       options: {
         query: `
           {
@@ -109,7 +109,7 @@ module.exports = {
           },
         ],
       },
-    },
+    }, */
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
