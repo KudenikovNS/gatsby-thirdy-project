@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-source-ghost`,
       options: {
-        apiUrl: `<Your API URL>`,
-        contentApiKey: `<Your Content API>`,
+        apiUrl: `http://localhost:2368`,
+        contentApiKey: `c315d988570cff3ad230d8b144`,
       },
     },
     {
